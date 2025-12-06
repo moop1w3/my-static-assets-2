@@ -1,4 +1,4 @@
-/* ===== CSS ===== */
+/* ===== CSS ss===== */
 #navbar-iframe, .navbar{display:none!important;visibility:hidden!important}
 :root{--brand:#0aa383;--brand-2:#0fb28b;--ink:#0b1220;--muted:#64748b;--line:#e5e7eb;--soft:#f7f9fb;--card:#ffffff;--radius:16px;--shadow:0 18px 40px -22px rgba(15,23,42,.20);--edge:12px;--edge-desktop:8px;--edge-mobile:12px;--card-basis-desktop:180px;--card-minh-desktop:100px;--card-basis-mobile:160px;--card-minh-mobile:90px}
 @media(min-width:900px){ :root{ --edge:var(--edge-desktop); } }
